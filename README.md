@@ -5,7 +5,7 @@ I derived this website from [minimal-academic-website](https://github.com/timoth
 
 ## Updates
 
-The website was last updated on Apr 26, 2024. 
+The website was last updated on August 13, 2024. 
 
 ## ⚖️  License
 
